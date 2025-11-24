@@ -9,8 +9,7 @@ TECHNOLOGIES/TOOLS USED:
 Language: Python Development: Github Method used: String manipulation, Functions, Conditional statements
 
 INSTALLATION AND SETUP:
-Since this project consists of a single function, installation involves cloning the repository and importing the function into your Python environment. Clone the Repository: Open your terminal or command prompt and run: git clone https://github.com/meenakshi25bsa10129-ship-it/Password-Strength-Checker.git cd Password-Strength-Checker
-
+Since this project consists of a single function, installation involves cloning the repository and importing the function into your Python environment. Clone the Repository: Open your terminal or command prompt and run: git clone https://github.com/meenakshi25bsa10129-ship-it/PASSWORD_STRENGTH_detector.git cd Password-Strength-detector
 INSTRUCTION FOR TESTING:
 A comprehensive testing script is included to validate the scoring and feedback for various password combinations.
 
